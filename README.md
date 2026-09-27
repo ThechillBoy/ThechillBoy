@@ -1,5 +1,6 @@
-## Hi there 👋
-# THECHILLBOY
+## 🧠 Inside the Lab
+- 💻 Python & Coding
+- 🧪 Personal Projects
 
 ![THECHILLBOY](assets/git-hub-banner.png)
 
