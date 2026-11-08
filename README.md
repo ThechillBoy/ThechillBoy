@@ -6,5 +6,5 @@
 
 ## 🎬 My Workspace
 
-[▶️ Watch my workspace video](assets/trim%20for%20git%20hub%20.mp4)
+![](assets/trim%20for%20git%20hub%20.mp4)
 
